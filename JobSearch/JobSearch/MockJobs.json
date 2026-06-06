@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7E4A6C76-9C1B-4BBA-B735-EA92F6E0D1A4",
+    "title": "iOS Developer",
+    "company": "Tech Solutions",
+    "location": "San Francisco, CA",
+    "salaryRange": "$120,000 - $140,000",
+    "description": "Join our team to create innovative iOS apps in a collaborative environment."
+  },
+  {
+    "id": "B8E6B2B8-1C2A-4B00-9285-138EEFFB3A5D",
+    "title": "Backend Engineer",
+    "company": "Cloudify",
+    "location": "Remote",
+    "salaryRange": "$110,000 - $130,000",
+    "description": "Work on scalable backend systems for modern cloud-based products."
+  },
+  {
+    "id": "BD9E2D6A-5D85-4BA4-826D-77C5387F9F6C",
+    "title": "Product Manager",
+    "company": "InnovateX",
+    "location": "New York, NY",
+    "salaryRange": "$130,000 - $150,000",
+    "description": "Lead product development teams for enterprise SaaS products."
+  }
+]
